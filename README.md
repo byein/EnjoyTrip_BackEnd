@@ -1,61 +1,107 @@
-# EnjoyTrip_BackEnd
-# 02_김예빈_우찬희
+# AboutTrip
 
-## index page
-![localhost_8080_project2_index jsp](https://user-images.githubusercontent.com/49120917/227934621-94a8cd40-af4f-4026-88eb-ceb628b18c72.png)
-
-## 회원가입
-![localhost_8080_project2_auth_signUp jsp](https://user-images.githubusercontent.com/49120917/227934630-025b070e-67db-486b-b4fd-296f887efe0a.png)
-
-## 회원가입 후의 DB
-![화면 캡처 2023-03-27 203846](https://user-images.githubusercontent.com/49120917/227934631-d874a33a-e925-4bf0-b3ea-73d89cffaac4.png)
-
-## 로그인
-![localhost_8080_project2_auth_signIn jsp](https://user-images.githubusercontent.com/49120917/227934632-f50cf4c4-013f-4ec8-adb3-0ca728ce2985.png)
-
-## 로그인 후 header 반영
-![localhost_8080_project2_index jsp (1)](https://user-images.githubusercontent.com/49120917/227934634-91a77ede-deec-4a69-a87e-934fa079a1fd.png)
-
-## 마이페이지 내 개인정보 확인
-![localhost_8080_project2_UserController_action=view id=bbb](https://user-images.githubusercontent.com/49120917/227934637-37be4c29-efd2-42d4-99d2-cc8eed5cd1f7.png)
-
-## 마이페이지 내 개인정보 수정 전
-![localhost_8080_project2_UserController_action=view id=bbb (1)](https://user-images.githubusercontent.com/49120917/227934638-29ef642d-4989-43e6-bf7c-a0e3a2c17a78.png)
-
-## 마이페이지 내 개인정보 수정 후
-![localhost_8080_project2_UserController_action=view id=bbb (2)](https://user-images.githubusercontent.com/49120917/227934639-430154a9-834c-4f04-a26e-d707b92bf1dc.png)
-
-## 개인정보 수정 후의 DB
-![화면 캡처 2023-03-27 204159](https://user-images.githubusercontent.com/49120917/227934644-9c94c532-fc12-45cf-91d8-80c643c52bfa.png)
-
-## 지역별 여행지 검색 전
-![localhost_8080_project2_regionalTrip_index jsp](https://user-images.githubusercontent.com/49120917/227934645-f204347a-7669-4606-8863-5a762420fe4e.png)
-
-## 지역별 여행지 검색 후
-![localhost_8080_project2_regionalTrip_index jsp (1)](https://user-images.githubusercontent.com/49120917/227934646-bc3ab66e-500e-4d23-8d3d-2581530639bc.png)
-
-## 핫플 자랑하기 모달 전
-![localhost_8080_project2_hotPlace_index jsp](https://user-images.githubusercontent.com/49120917/227934648-509fe33a-e96b-4114-acba-98824a2ba9e3.png)
-
-## 핫플 자랑하기 모달 후
-![화면 캡처 2023-03-27 210222](https://user-images.githubusercontent.com/49120917/227936039-5474a7b6-dac3-4aa3-81b6-18bf50c59aba.png)
-
-## 여행정보 공유하기 화면
-![localhost_8080_project2_shareTrip_index jsp](https://user-images.githubusercontent.com/49120917/227934651-b4edd206-1a14-4aa1-a537-aebe6c730553.png)
-
-## 여행정보 공유하기 상세보기 모달
-![화면 캡처 2023-03-27 210724](https://user-images.githubusercontent.com/49120917/227937471-39ba7ada-a176-49e4-b210-4be84f8b19c9.png)
-
-## 여행정보 공유하기 추가하기 모달
-![화면 캡처 2023-03-27 210738](https://user-images.githubusercontent.com/49120917/227937476-7c844749-dff0-49d2-a0da-cf0ace399e02.png)
-
-## 공지사항 화면
-![localhost_8080_project2_notice_index jsp (2)](https://user-images.githubusercontent.com/49120917/227937481-379a0135-e59d-4655-a66c-a211324a8141.png)
-
-## 공지사항 상세보기 모달
-![화면 캡처 2023-03-27 210818](https://user-images.githubusercontent.com/49120917/227937484-f9079894-ea04-42ce-819e-dee6c3717257.png)
-
-## 공지사항 추가하기 모달
-![화면 캡처 2023-03-27 210844](https://user-images.githubusercontent.com/49120917/227937486-d4786431-1255-428c-8fdb-b121cba77f64.png)
+# 02-김예빈-우찬희
 
 
+## 메인페이지
+![메인 페이지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/1155e472-5b7b-4b24-b26c-71e10a991543)
+
+
+## 유저 관련
+### 로그인
+![로그인](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/a5d74cd6-6f59-4acc-bf6c-e3c524923add)
+
+
+### 회원가입
+![회원가입](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/9356cbe7-ef25-46c8-aa7a-d303e4034821)
+
+
+### 회원정보 조회
+![회원정보 조회](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/ee2e340d-7c13-4800-acea-4cbb9f9cd087)
+
+
+### 회원정보 변경
+![회원정보 변경](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/cda7a555-fcab-4c97-8d5b-2e8e59bf583b)
+
+### 회원 탈퇴
+![Group 12](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/f998c463-3e48-45f1-ae75-930770e9d84f)
+
+
+## 지역별여행지
+### 검색
+![지역별여행지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/d4a88396-2800-4048-9010-2c82a89fd480)
+
+### 검색 결과 상세 모달
+![지역별여행지 - 상세 페이지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/05e2873e-8d57-49dc-b3cb-3d2d9cda3e88)
+
+
+## 여행플랜공유
+### 플랜 생성 페이지
+![여행플랜공유 생성 페이지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/5e995396-7a6b-496a-b385-7b644b6ae3d4)
+
+### 플랜 리스트 페이지
+![여행플랜공유](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/82708a3f-03eb-4728-99f6-12166be1f9ca)
+
+### 플랜 상세 페이지
+![여행플랜공유 상세](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/9fd547a5-da44-4a35-acf2-3e5f67bb0b3b)
+
+### 플랜 수정 페이지
+![여행정보공유 수정 페이지 - 작성자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/4c8c6f8e-7788-4147-ba28-b77d583c5f34)
+
+
+## 공지사항 (일반유저, 관리자)
+### 목록 페이지 - 일반유저
+![공지사항 목록 - 일반 유저](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/5a3d459f-f268-4d81-a5d6-f4d73a0d3995)
+
+### 목록 페이지 - 관리자
+![공지사항 목록 - 관리자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/1990fe3a-7165-4462-b4bc-6dd82daf79b3)
+
+### 작성 페이지 - 관리자
+![공지사항 작성 페이지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/5f2fe116-f9f7-4973-8bd0-6e312114727d)
+
+### 상세 페이지 - 일반유저
+![공지사항 상세 페이지 - 일반 유저](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/ac747b19-c6ed-4d74-a9c0-7739a21a2d86)
+
+### 상세 페이지 - 관리자
+![공지사항 상세 페이지 - 관리자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/061f8ebd-a8c5-480a-a269-ede4845d301e)
+
+### 수정 페이지 - 관리자
+![공지사항 수정 페이지 - 관리자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/3a3588dc-af8b-4cf9-9fcb-21d202989bee)
+
+
+## 여행정보공유 (작성자, 일반유저(작성자 외의 유저), 관리자)
+### 목록 페이지 - 일반유저
+![여행정보공유 목록 - 일반 유저](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/02a35866-2443-4843-b4da-cd91d9a7a29e)
+
+### 목록 페이지 - 관리자
+![여행정보공유 목록 - 관리자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/2b9cc7d6-4423-4e4c-96ca-644e7ae1e0cb)
+
+### 작성 페이지 - 일반유저
+![여행정보공유 작성 페이지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/49494465-6b24-4b96-93d7-c983d4806317)
+
+### 상세 페이지 - 일반유저
+![여행정보공유 상세 페이지 - 일반 유저](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/645938c5-b493-4e44-973c-fa95eb676f75)
+
+### 상세 페이지 - 작성자
+![여행정보공유 상세 페이지 - 작성자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/93b9f66b-9b3f-4478-ae94-e7d9540c4067)
+
+### 수정 페이지 - 작성자 
+![여행정보공유 수정 페이지 - 작성자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/291956b0-9056-44c9-89cc-d5d542f97c69)
+
+
+## 핫플자랑하기 (일반유저, 관리자)
+### 목록 페이지
+![핫플자랑하기 목록](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/44e47d4a-5a90-4166-bf00-78ce02b8a055)
+
+### 작성 페이지 - 일반유저
+![핫플자랑하기 작성 페이지](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/156621c7-59a6-4b22-aafb-922a95f892f6)
+
+### 상세 페이지 - 일반유저
+![핫플자랑하기 상세 페이지 - 일반 유저](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/6385822c-d786-45b2-a5d9-21a1899da1f7)
+
+### 상세 페이지 - 관리자
+![핫플자랑하기 상세 페이지 - 관리자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/4367b15a-8a97-4312-95cd-02b8bf1d7c09)
+
+
+### 수정 페이지 - 관리자
+![핫플자랑하기 수정 페이지 - 관리자](https://github.com/ABOUTRIP/ABOUTRIP_Vue/assets/84485400/b9935922-059f-48a1-9b2f-6a3aaa070d3d)
